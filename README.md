@@ -1,2 +1,2 @@
-# gee-sar
-SAR data processing on GEE
+# Google Earth Engine
+Geospatial Data Processing on GEE platform
